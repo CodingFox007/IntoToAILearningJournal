@@ -1,0 +1,8 @@
+Algorithm: output can be determined
+AI: output cannot be determined
+Big data: data sets too large to be processed by traditional applications
+Context Window: Max number of tokens (words or parts of words) that can be processed. essentially the memory.
+Emergent behavior: Behavior that was unexpected
+hallucination: When large language models generate factually inaccurate/illogical answers due to data constraints
+Prompt engineering: Designing effective prompts to get better results
+AI temperature: Lower value, more focused, higher value, more creative

@@ -1,0 +1,1 @@
+As AI power consumption goes down, price to use it will go down, but demand will go up, starting the loop again. As AI models get cheaper, the tokens will get more expensive. Reasoning makes the AI use more tokens, increasing the price to use it.
