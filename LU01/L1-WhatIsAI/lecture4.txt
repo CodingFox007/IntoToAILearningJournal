@@ -1,0 +1,2 @@
+Bad prompt = bad response
+If you give a poorly made prompt to AI, you will get bad results from the AI.

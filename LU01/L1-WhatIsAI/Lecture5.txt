@@ -1,0 +1,1 @@
+Certain AI are able to read the prompt and rewrite it to yield better results. You are also able to upload files or even compressed directories.
