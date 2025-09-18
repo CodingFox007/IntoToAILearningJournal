@@ -1,0 +1,1 @@
+Vibe coding can be very dangerous since it tends to leave vulnerabilities in the code which allows people to access it very easily. The ai being used can also use outdated methods when better and more condensed methods can be used.
