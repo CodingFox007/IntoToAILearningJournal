@@ -1,0 +1,1 @@
+Node js is practically the only thing a web developer needs, since it allows javascript to be ran almost anywhere. To make a svelte project, run the command, npx sv create (whatever name you want here), then npm run dev to make sure it's running. When using ai to "Vibe Code", it will most likely add things that we didn't ask for.

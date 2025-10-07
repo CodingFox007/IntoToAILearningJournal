@@ -1,0 +1,1 @@
+There is almost no difference between a server and a computer. The only difference is that a server has no screen and can be managed from anywhere via the terminal.
